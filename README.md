@@ -1,2 +1,2 @@
 - I made this Industry Grade Full Stack Job Portal Website named as Hirrd. 
-- React JS + Vite, Tailwind CSS, Clerk, Supabase amd Shadcn UI are used to make this project. 
+- React JS + Vite, Tailwind CSS, Clerk, Supabase and Shadcn UI are used to make this project. 
